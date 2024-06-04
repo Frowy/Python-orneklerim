@@ -1,3 +1,20 @@
+# Sayısal değişkenler
+sayi1 = 10
+sayi2 = 20.5
+
+# Metin (string) değişkeni
+isim = "Ali"
+
+# Boolean (Mantıksal) değişkenler
+dogru_mu = True
+yanlis_mi = False
+
+# Liste değişkeni
+liste = [1, 2, 3, 4, 5]
+
+# Sözlük (dictionary) değişkeni
+sozluk = {"isim": "Ali", "yas": 25} 
+
 a = 1 # int tipi değer
 b = "Bir" # str tipi değer
 print(a) # Değişkeni yazdırır
