@@ -44,3 +44,11 @@ print(A / B) # Bölme
 hl = "Merhaba Dünya!"
 print(len(hl)) # Cümlenin uzunluğu
 print("Merhaba" in hl) # Cümlenin içinde varmı
+
+# Sayı Tipleri
+f = 1       # int
+g = 1.5     # float
+h = 1j      # complex
+print(type(f))
+print(type(g))
+print(type(h))
